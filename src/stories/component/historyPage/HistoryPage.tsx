@@ -1,5 +1,4 @@
 import React, {FC} from "react";
-import Column from "antd/lib/table/Column";
 import {
     makeStyles,
     Paper, Table,
